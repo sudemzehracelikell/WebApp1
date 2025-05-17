@@ -1,0 +1,37 @@
+
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+
+##  Rider
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+[Oo]bj/
+
+## Local settings
+appsettings.Development.json
+*.Development.json
+launchSettings.json
+
+## User Secrets
+**/secrets.json
+
+## Logs
+*.log
+
+## Database
+*.db
+*.sqlite3
