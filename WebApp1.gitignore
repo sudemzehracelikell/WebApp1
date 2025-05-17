@@ -7,7 +7,7 @@ obj/
 *.sln.docstates
 
 ##  Rider
-.vs/
+.vs/○
 .idea/
 *.suo
 *.user
